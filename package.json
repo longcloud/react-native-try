@@ -1,0 +1,17 @@
+{
+  "name": "CacheImageProject",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@remobile/react-native-cache-image": "file:node_modules/@remobile/react-native-cache-image",
+    "@remobile/react-native-cordova": "^1.0.9",
+    "react": "^0.14.8",
+    "react-native": "^0.22.2",
+    "react-native-fs": "^1.3.0",
+    "react-native-router-flux": "^3.2.9",
+    "react-native-sqlite": "0.0.12"
+  }
+}
